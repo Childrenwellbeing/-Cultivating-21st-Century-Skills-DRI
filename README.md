@@ -19,6 +19,11 @@ Image source: “Did you tape me?” Reprinted from Sorensen’s book, Ethics in
 
 ![image](https://github.com/user-attachments/assets/dfb9f1c9-af59-480a-a05f-23dc831fa757)
 
+### Next Steps To Take
+- Cotact Prudence to add matadat
+- Add images & cellphilms
+- Add vision and Roadmao
+
 
 
 
