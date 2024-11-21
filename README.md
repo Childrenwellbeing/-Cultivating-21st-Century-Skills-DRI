@@ -5,7 +5,7 @@ I have added the significance of DRI in realtion to EDIA.
 * Create a repo
 * Add README
 * Edit README
-* Create PR
+* Create PR and a Fork then merge it 
   
 ## Metadata
 
